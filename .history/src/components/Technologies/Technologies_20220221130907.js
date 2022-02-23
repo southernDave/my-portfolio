@@ -22,7 +22,7 @@ const Technologies = () =>  (
           <ListTitle>Frontend</ListTitle>
           <ListParagraph>
             Experience with <br />
-            html, CSS, TailwindCSS, Javascript, Typescript <br />
+            html, CSS, TailwindCSS, javascript, <br />
             React.js
           </ListParagraph>
         </ListContainer>
@@ -43,7 +43,7 @@ const Technologies = () =>  (
           <ListTitle>Blockchain</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Solidity, ethers.js, hardhat 
+            Solidity, Ganache-CLI, ethers.js, web3.js, hardhat, truffle & moralis 
           </ListParagraph>
         </ListContainer>
       </ListItem>

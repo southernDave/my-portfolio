@@ -22,7 +22,7 @@ const Technologies = () =>  (
           <ListTitle>Frontend</ListTitle>
           <ListParagraph>
             Experience with <br />
-            html, CSS, TailwindCSS, Javascript, Typescript <br />
+            html, CSS, TailwindCSS, javascript, <br />
             React.js
           </ListParagraph>
         </ListContainer>

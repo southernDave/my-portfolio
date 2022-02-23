@@ -38,9 +38,9 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2019, text: 'Started learning C++ while studying Electrical Engineering in university', },
-  { year: 2020, text: 'I also dabbled into matlab while in school and later that year, I made a self parking robot in school using arduino and I used webots to simulate the environment ', },
-  { year: 2021, text: 'I started my journey learning blockchain development after I got the roadmap I needed to start, so I joined telegram, discord groups where I could find blockchain engineers and followed them on twitter and everywhere I could find them...', },
-  { year: 2021, text: '...constantly interacted with them so I could get help from them if i needed to cause i believe that a community is more important', },
-  { year: 2022, text: 'completed the beginner and sophomore the programme from learnweb3.io, started and completed the free simplilearn blockchain course', },
+  { year: 2021, text: 'in April, I started my blockchain development journey by studying the roadmap to becoming a blockchain dev', },
+  { year: 2021, text: 'in April, I started with frontend development as instructed by experts whom i look up to in the field', },
+  { year: 2021, text: 'from April to August I Built frontend projects to sharpen my skills, I made mistakes along the way but I learnt key lessons', },
+  { year: 2021, text: 'In September, I studied the tools needed for building blockchain related projects and started building to sharpen my skills', },
+  { year: 2022, text: 'I am still building blockchain related projects, still practicing to be the best I can be', },
 ];

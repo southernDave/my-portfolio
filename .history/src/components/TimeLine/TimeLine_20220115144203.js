@@ -46,11 +46,10 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      I am goal driven and hardworking, when I have my eyes fixed on achieving a thing <br/>
-      I don't stop till I get there no matter how many times I get frustrated <br/>
-      this can be proven in when I started learning solidity, I faced challenges but <br />
-      my interest and passion in contributing to this space made me continue working hard.
-      
+      The reason I got involved in this space is because it was the only thing that I found happiness doing <br />
+          I was in a really low point in my life back in 2021 and this was the only thing I could do that brought me a bit of joy
+          My big milestone was creating my connecting my first front end application to the blockchain for the first time, <br />
+          I was so excited that day 
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

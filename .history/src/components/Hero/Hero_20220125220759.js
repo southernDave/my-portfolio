@@ -17,6 +17,7 @@ const Hero = (props) => (
         I want to bring a new experience to users getting started in web3 because I believe that one of the ways
         to get new users acquainted with web3 projects is by making the frontend a lot user friendly
       </SectionText>
+      <Button onClick = {() => window.location = 'https://google.com'}>Learn More</Button>
     </LeftSection>
   </Section>
 );

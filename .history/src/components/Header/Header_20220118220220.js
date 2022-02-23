@@ -42,6 +42,9 @@ const Header = () =>  (
       <SocialIcons href='https://twitter.com/p_o_t_l_s_c' target="_blank">
         <AiFillTwitterCircle size="4rem" />
       </SocialIcons>
+      <SocialIcons href='https://anchor.fm/theneutral' target='_blank'>
+        <SiAirplayaudio size='4rem' />
+      </SocialIcons>
     </Div3>
   </Container>
 );

@@ -1,5 +1,6 @@
 import React from 'react';
 import { AiFillGithub, AiFillInstagram, AiFillLinkedin, AiFillTwitterSquare } from 'react-icons/ai';
+import { SiAirplayaudio } from "react-icons/si";
 import { SocialIcons } from '../Header/HeaderStyles';
 import { CompanyContainer, FooterWrapper, LinkColumn, LinkItem, LinkList, LinkTitle, Slogan, SocialContainer, SocialIconsContainer } from './FooterStyles';
 
@@ -29,6 +30,9 @@ const Footer = () => {
       </SocialIcons>
       <SocialIcons href='https://twitter.com/p_o_t_l_s_c' target="_blank">
         <AiFillTwitterSquare size="4rem" />
+      </SocialIcons>
+      <SocialIcons href='https://anchor.fm/theneutral' target='_blank'>
+        <SiAirplayaudio size='4rem' />
       </SocialIcons>
           </SocialContainer>
         </SocialIconsContainer>
